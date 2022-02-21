@@ -12,8 +12,8 @@ _Sindarin Translator Online_ aims to provide a web interface for the terminal ap
 
 ## Functionality / Features
 
-* 
-* 
+* English-to-Sindarin (Tolkien _Elvish_) translations
+* Responsive website
 * 
 
 ## Target Audience
@@ -23,14 +23,24 @@ _Sindarin Translator Online_ aims to provide a web interface for the terminal ap
 * Fans who are interested in the upcoming 'Rings of Power' _Amazon Prime Video_ series.
 * Fans of _Conlangs_ (Constructed Languages) who want a phonetic representation of the _Elvish Sindarin_ language.
 
-* Future employers.
+* Future employers _(hi there!)_
 * Coder Academy educators for marking purposes.
 
 
 ## Tech Stack
 
+* HTML5 + CSS Frontend
+* Python 3
+* Flask or Django web framework
+* Git
+* AWS EC2
+* AWS Lambda
+
+
 
 ## Dataflow Diagram
+
+
 
 
 ## Application Architecture Diagram
@@ -47,6 +57,21 @@ _Sindarin Translator Online_ aims to provide a web interface for the terminal ap
 
 ### 19 February 2022
 
-Project Start
+Project Start (with Priority Labels)
+
 ![Trello Board at 19.02.2022 Project Start](./docs/img/trello/Trello_19.02.2022a.png)
 
+Updated Documentation Tasks
+
+![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022a.png)
+
+![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022b.png)
+
+![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022c.png)
+
+![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022a.png)
+
+
+---
+
+Karl Alberto | 2022
