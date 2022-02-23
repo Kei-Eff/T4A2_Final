@@ -5,6 +5,8 @@ Full Stack Application - Final Assignment for CCC
 
 # Sindarin Translator Online
 
+![Sindarin Translator Online title](./docs/img/sto_title.png)
+
 ## Description
 
 _Sindarin Translator Online_ aims to provide a web interface for the terminal application created during term 2 in the CCC course (T2A3). You can find more details about that project [here](https://github.com/Kei-Eff/sindarin-translator).
@@ -54,7 +56,7 @@ Documentation and Development updates are available via Trello [here](https://tr
 
 ## Dataflow Diagram
 
-
+![STO Dataflow Diagram](./docs/img/sto_dataflow_diagram.png)
 
 
 ## Application Architecture Diagram
@@ -122,7 +124,7 @@ Added extra "team member" and assigned tasks
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022c.png)
 
-Updated dates targets + tasks
+Updated date targets + tasks
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_22.02.2022a.png)
 
