@@ -88,7 +88,7 @@ Updated layout more closely based off mobile version
 
 
 
-## Trello Board
+## Progress Updates: Trello
 
 ### 19 February 2022
 
@@ -106,6 +106,9 @@ Priority labels as follow:
     * Nice to Have
     * CRITICAL (added 21.02.2022)
 
+
+### 20 February 2022
+
 Updated Documentation Tasks
 
 ![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022a.png)
@@ -113,6 +116,9 @@ Updated Documentation Tasks
 ![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022b.png)
 
 ![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022c.png)
+
+
+### 21 February 2022
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022a.png)
 
@@ -124,9 +130,19 @@ Added extra "team member" and assigned tasks
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022c.png)
 
+
+### 22 February 2022
+
 Updated date targets + tasks
 
-![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_22.02.2022a.png)
+![Trello Board at 22.02.2022 Updated Tasks](./docs/img/trello/Trello_22.02.2022a.png)
+
+
+### 23 February 2022
+
+![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022a.png)
+
+![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022b.png)
 
 ---
 
