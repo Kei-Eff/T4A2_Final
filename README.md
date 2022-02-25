@@ -8,9 +8,11 @@ CCC-2022 T4A2 - Full Stack Application - Karl Alberto
 
 ## Description
 
-_Sindarin Translator Online_ aims to provide a web interface for the terminal application created during term 2 in the CCC course (T2A3). You can find more details about that project [here](https://github.com/Kei-Eff/sindarin-translator).
+_Sindarin Translator Online_ aims to provide a web interface for the terminal application I created in Term 2 (2021) for the CCC course (T2A3). You can find more details about that project [here](https://github.com/Kei-Eff/sindarin-translator).
 
 Documentation and Development updates are available via Trello [here](https://trello.com/b/5FlPl44f/t4a2-sindarin-translator-online), along with screenshots below.
+
+<br>
 
 
 ## Main Functionality/Features
@@ -35,13 +37,19 @@ Updated 24.02.2022:
 
 * Output text in _Tengwar_ (Elvish) script
 
+<br>
+
 
 ## Target Audience
 
-* Fans of JRR Tolkien's written works, and the 'Lord of the Rings' universe.
+* Fans of J.R.R. Tolkien's written works, and the 'Middle Earth'/'Lord of the Rings' universe.
 * Fans of the 'Lord of the Rings' and 'The Hobbit' movie franchises.
 * Fans who are interested in the upcoming 'Rings of Power' _Amazon Prime Video_ series.
 * Fans of _Conlangs_ (Constructed Languages) who want a phonetic representation of the _Elvish Sindarin_ language.
+* Linguists and linguistics students who want to study how Tolkien created his own languages.
+* Fans of video games set in Middle Earth.
+
+<br>
 
 
 ## Tech Stack
@@ -60,6 +68,8 @@ Updated 24.02.2022:
 * Amazon DynamoDB
 * AWS Parameter Store
 
+<br>
+
 
 ## Dataflow Diagram
 
@@ -74,10 +84,25 @@ PDF version available [here](https://drive.google.com/file/d/12M_AjIVeAlF6yyiZiK
 
 PDF version available [here](https://drive.google.com/file/d/1GyclfPDHQPcAUzzXO_8p2HwB6HThrn9P/view?usp=sharing).
 
+<br>
+
 
 ## User Stories
 
+|                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| As a fan of J.R.R. Tolkien's written works, I want to be able to immerse myself in the Elven lore through their language.                                        |
+| As a fan of the Lord of the Rings series of books, I want to speak the same language as Lord Elrond!                                                             |
+| As a linguist studying 'Constructed Languages', I want to study the syntax Tolkien developed for his books.                                                      |
+| As an Elven LARPer, I really want to up my spellcasting game by using Sindarin!                                                                                  |
+| As an older fan of Tolkien's books, I want to be able to use Elven words conveniently on my phone.                                                               |
+| As a DM (Dungeon Master), I want to regale my players with Sindarin speech during one of our DND One-Shots.                                                      |
+| As a language student, I want a source to study popular ConLangs while I commute.                                                                                |
+| As someone who only reads Tolkien-related fiction, I want to have a dedicated app for his Elven languages, and not sort through other universes (like Star Trek) |
+| As a gamer who loves the Shadow of Mordor/War series of games, I want to understand some of the words they use!                                                  |
+---
 
+<br>
 
 
 ## Wireframes
@@ -92,7 +117,11 @@ Basic app wireframes based off of _Google Translate_ interface.
 
 ### Desktop
 
+Based heavily off the mobile version, for easy implementation of a responsive site.
+
 ![STO main interface](./docs/img/wireframes/sto_desktop_v2.png)
+
+<br>
 
 
 ## Progress Updates: Trello
@@ -165,6 +194,12 @@ Updated Tech Stack
 
 ![Trello Board at 25.02.2022 Updated Tasks](./docs/img/trello/Trello_25.02.2022a.png)
 
+T4A2-Part A Requirements met, ready for submission
+
+![Trello Board at 25.02.2022 COMPLETE](./docs/img/trello/Trello_25.02.2022b.png)
+
+
+<br>
 
 ---
 
