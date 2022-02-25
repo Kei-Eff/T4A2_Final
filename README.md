@@ -19,10 +19,16 @@ Documentation and Development updates are available via Trello [here](https://tr
 * English-to-Sindarin (Tolkien _Elvish_) translations
 * Easy to use, responsive website
 * Minimal design: text in, text out
-* About page (including contact form)
-* Links to contact and portfolio items (namely, Github and LinkedIn)
+* ~~About page (including contact form)~~ _Removed 23.02.2022_
+* ~~Links to contact and portfolio items (namely, Github and LinkedIn)~~ _Removed 23.02.2022_
+
+Updated 24.02.2022:
+
+* Cache for most requested translations (to limit API calls)
 
 ## Future Improvements/Additional Features
+
+* ~~Store and display last 10 and/or top 10 translations requested~~ _Removed 24.02.2022_
 
 * More Middle Earth language options:
     * English-to-_Quenya_
@@ -38,28 +44,34 @@ Documentation and Development updates are available via Trello [here](https://tr
 * Fans who are interested in the upcoming 'Rings of Power' _Amazon Prime Video_ series.
 * Fans of _Conlangs_ (Constructed Languages) who want a phonetic representation of the _Elvish Sindarin_ language.
 
-* Future employers _(hi there!)_
-* Coder Academy educators for marking purposes.
-
 
 ## Tech Stack
 
 * HTML5
-* Bootstrap CSS
+* CSS
+* Javascript
 * Python 3
-* Flask or Django web framework
-* Git
+* ~~Flask or Django web framework~~
+* Github
+* AWS Identity and Access Manager
+* AWS Amplify
+* Amazon API Gateway
 * AWS EC2
 * AWS Lambda
-
+* Amazon DynamoDB
+* TBC: AWS Parameter Store (or Secrets Manager)
 
 
 ## Dataflow Diagram
 
 ![STO Dataflow Diagram](./docs/img/sto_dataflow_diagram.png)
 
+PDF version available [here](https://drive.google.com/file/d/1EK-SuTCryXH4YtIefg59Qg9U2hNMj4cf/view?usp=sharing).
+
 
 ## Application Architecture Diagram
+
+![Placeholder]()
 
 
 ## Wireframes
@@ -143,6 +155,21 @@ Updated date targets + tasks
 ![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022a.png)
 
 ![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022b.png)
+
+
+### 24 February 2022
+
+Updated and added tasks
+
+![Trello Board at 24.02.2022 Updated Tasks](./docs/img/trello/Trello_24.02.2022a.png)
+
+
+### 25 February 2022
+
+Updated Tech Stack
+
+![Trello Board at 25.02.2022 Updated Tasks](./docs/img/trello/Trello_25.02.2022a.png)
+
 
 ---
 
