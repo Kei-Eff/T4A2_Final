@@ -65,14 +65,14 @@ Updated 24.02.2022:
 
 ![STO Dataflow Diagram](./docs/img/sto_dataflow_diagram_v2.png)
 
-PDF version available [here](). Older version is available to view [here](./docs/sto_old_versions.md)
+PDF version available [here](https://drive.google.com/file/d/12M_AjIVeAlF6yyiZiKg_ZUP8SYS7ouDh/view?usp=sharing). Older version is available to view [here](./docs/sto_old_versions.md).
 
 
 ## Application Architecture Diagram
 
 ![STO Application Architecture Diagram](./docs/img/sto_app_architecture.png)
 
-PDF version available [here](./docs/sto_app_architecture.pdf)
+PDF version available [here](https://drive.google.com/file/d/1GyclfPDHQPcAUzzXO_8p2HwB6HThrn9P/view?usp=sharing).
 
 
 ## User Stories
@@ -82,7 +82,7 @@ PDF version available [here](./docs/sto_app_architecture.pdf)
 
 ## Wireframes
 
-Complete set of both mobile and desktop wireframe pdf available [here](./docs/sto_wireframes.pdf). Older versions are available to view [here](./docs/sto_old_versions.md)
+PDF version available [here](https://drive.google.com/file/d/10v8T_PIrClSegHbf481wlN-TLrklgsCH/view?usp=sharing). Older versions are available to view [here](./docs/sto_old_versions.md).
 
 ### Mobile
 
