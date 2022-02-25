@@ -55,22 +55,24 @@ Updated 24.02.2022:
 * AWS Identity and Access Manager
 * AWS Amplify
 * Amazon API Gateway
-* AWS EC2
+* ~~AWS EC2~~ _Removed 25.02.2022_
 * AWS Lambda
 * Amazon DynamoDB
-* TBC: AWS Parameter Store (or Secrets Manager)
+* AWS Parameter Store
 
 
 ## Dataflow Diagram
 
-![STO Dataflow Diagram](./docs/img/sto_dataflow_diagram.png)
+![STO Dataflow Diagram](./docs/img/sto_dataflow_diagram_v2.png)
 
-PDF version available [here](https://drive.google.com/file/d/1EK-SuTCryXH4YtIefg59Qg9U2hNMj4cf/view?usp=sharing).
+PDF version available [here](). Older version is available to view [here](./docs/sto_old_versions.md)
 
 
 ## Application Architecture Diagram
 
-![Placeholder]()
+![STO Application Architecture Diagram](./docs/img/sto_app_architecture.png)
+
+PDF version available [here](./docs/sto_app_architecture.pdf)
 
 
 ## User Stories
@@ -80,7 +82,7 @@ PDF version available [here](https://drive.google.com/file/d/1EK-SuTCryXH4YtIefg
 
 ## Wireframes
 
-Complete set of both mobile and desktop wireframe pdf available [here](./docs/sto_wireframes.pdf).
+Complete set of both mobile and desktop wireframe pdf available [here](./docs/sto_wireframes.pdf). Older versions are available to view [here](./docs/sto_old_versions.md)
 
 ### Mobile
 

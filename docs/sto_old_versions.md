@@ -2,21 +2,14 @@ CCC-2021 T4A2 - Full Stack Application - Karl Alberto
 
 ---
 
-# Sindarin Translator Online - Wireframes
+# Sindarin Translator Online Diagrams [Old Versions]
 
-## Updated (25.02.2022)
+## Dataflow Diagram - Pre-25.02.2022
 
-### Mobile
+![STO Dataflow Diagram](./img/sto_dataflow_diagram.png)
 
-Basic app wireframes based off of _Google Translate_ interface.
 
-![STO main interface](./img/wireframes/sto_mobile_v2.png)
-
-### Desktop
-
-![STO main interface](./img/wireframes/sto_desktop_v2.png)
-
-## Old Versions
+## Wireframes - Pre-24.02.2022
 
 ### Mobile
 
@@ -25,6 +18,7 @@ Basic app wireframes based off of _Google Translate_ interface.
 ![STO main interface](./img/wireframes/sto_mobile_main.png)
 
 ![STO main interface](./img/wireframes/sto_mobile_about.png)
+
 
 ### Desktop
 
