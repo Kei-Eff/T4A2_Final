@@ -77,6 +77,8 @@ Updated 24.02.2022:
 
 PDF version available [here](https://drive.google.com/file/d/12M_AjIVeAlF6yyiZiKg_ZUP8SYS7ouDh/view?usp=sharing). Older version is available to view [here](./docs/sto_old_versions.md).
 
+<br>
+
 
 ## Application Architecture Diagram
 
@@ -145,7 +147,7 @@ Priority labels as follow:
 
 ### 20 February 2022
 
-Updated Documentation Tasks
+Updated documentation tasks:
 
 ![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022a.png)
 
@@ -158,18 +160,18 @@ Updated Documentation Tasks
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022a.png)
 
-Added 'CRITICAL' priority label
+Added 'CRITICAL' priority label:
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022b.png)
 
-Added extra "team member" and assigned tasks
+Added extra "team member" and assigned tasks:
 
 ![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022c.png)
 
 
 ### 22 February 2022
 
-Updated date targets + tasks
+Updated date targets and tasks:
 
 ![Trello Board at 22.02.2022 Updated Tasks](./docs/img/trello/Trello_22.02.2022a.png)
 
@@ -183,18 +185,18 @@ Updated date targets + tasks
 
 ### 24 February 2022
 
-Updated and added tasks
+Updated and added tasks:
 
 ![Trello Board at 24.02.2022 Updated Tasks](./docs/img/trello/Trello_24.02.2022a.png)
 
 
 ### 25 February 2022
 
-Updated Tech Stack
+Updated Tech Stack:
 
 ![Trello Board at 25.02.2022 Updated Tasks](./docs/img/trello/Trello_25.02.2022a.png)
 
-T4A2-Part A Requirements met, ready for submission
+T4A2-A Ready for submission:
 
 ![Trello Board at 25.02.2022 COMPLETE](./docs/img/trello/Trello_25.02.2022b.png)
 
