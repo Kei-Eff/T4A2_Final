@@ -1,5 +1,4 @@
-# T4A2_Final
-Full Stack Application - Final Assignment for CCC
+CCC-2022 T4A2 - Full Stack Application - Karl Alberto
 
 ---
 
@@ -51,7 +50,7 @@ Updated 24.02.2022:
 * CSS
 * Javascript
 * Python 3
-* ~~Flask or Django web framework~~
+* ~~Flask or Django web framework~~ _Removed 24.02.2022_
 * Github
 * AWS Identity and Access Manager
 * AWS Amplify
@@ -74,6 +73,11 @@ PDF version available [here](https://drive.google.com/file/d/1EK-SuTCryXH4YtIefg
 ![Placeholder]()
 
 
+## User Stories
+
+
+
+
 ## Wireframes
 
 Complete set of both mobile and desktop wireframe pdf available [here](./docs/sto_wireframes.pdf).
@@ -82,22 +86,11 @@ Complete set of both mobile and desktop wireframe pdf available [here](./docs/st
 
 Basic app wireframes based off of _Google Translate_ interface.
 
-![STO main interface](./docs/img/wireframes/sto_mobile_main.png)
-
-![STO main interface](./docs/img/wireframes/sto_mobile_about.png)
+![STO main interface](./docs/img/wireframes/sto_mobile_v2.png)
 
 ### Desktop
 
-Initial draft
-
-![STO main interface](./docs/img/wireframes/sto_desktop_main.png)
-
-Updated layout more closely based off mobile version
-
-![STO main interface](./docs/img/wireframes/sto_desktop_main_new.png)
-
-![STO main interface](./docs/img/wireframes/sto_desktop_about.png)
-
+![STO main interface](./docs/img/wireframes/sto_desktop_v2.png)
 
 
 ## Progress Updates: Trello
