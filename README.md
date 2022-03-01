@@ -128,11 +128,7 @@ Based heavily off the mobile version, for easy implementation of a responsive si
 
 ## Progress Updates: Trello
 
-### 19 February 2022
-
-Project Start (with Priority Labels)
-
-![Trello Board at 19.02.2022 Project Start](./docs/img/trello/Trello_19.02.2022a.png)
+_N.B. Updates from February 2022 can now be found [here](./docs/trello_updates_feb_2022.md)._
 
 Priority labels as follow:
 
@@ -142,63 +138,14 @@ Priority labels as follow:
     * Urgent
     * Ongoing
     * Nice to Have
-    * CRITICAL (added 21.02.2022)
+    * CRITICAL
 
+### 1 March 2022
 
-### 20 February 2022
+Tackling page layout
 
-Updated documentation tasks:
+![Trello Board at 1 March 2022 - Coding start](./docs/img/trello/mar_2022/Trello_01.03.2022a.png)
 
-![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022a.png)
-
-![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022b.png)
-
-![Trello Board at 20.02.2022 Updated Tasks](./docs/img/trello/Trello_20.02.2022c.png)
-
-
-### 21 February 2022
-
-![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022a.png)
-
-Added 'CRITICAL' priority label:
-
-![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022b.png)
-
-Added extra "team member" and assigned tasks:
-
-![Trello Board at 21.02.2022 Updated Tasks](./docs/img/trello/Trello_21.02.2022c.png)
-
-
-### 22 February 2022
-
-Updated date targets and tasks:
-
-![Trello Board at 22.02.2022 Updated Tasks](./docs/img/trello/Trello_22.02.2022a.png)
-
-
-### 23 February 2022
-
-![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022a.png)
-
-![Trello Board at 23.02.2022 Updated Tasks](./docs/img/trello/Trello_23.02.2022b.png)
-
-
-### 24 February 2022
-
-Updated and added tasks:
-
-![Trello Board at 24.02.2022 Updated Tasks](./docs/img/trello/Trello_24.02.2022a.png)
-
-
-### 25 February 2022
-
-Updated Tech Stack:
-
-![Trello Board at 25.02.2022 Updated Tasks](./docs/img/trello/Trello_25.02.2022a.png)
-
-T4A2-A Ready for submission:
-
-![Trello Board at 25.02.2022 COMPLETE](./docs/img/trello/Trello_25.02.2022b.png)
 
 
 <br>
