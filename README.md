@@ -147,6 +147,16 @@ Tackling page layout
 ![Trello Board at 1 March 2022 - Coding start](./docs/img/trello/mar_2022/Trello_01.03.2022a.png)
 
 
+### 2 March 2022
+
+Added highline development tasks
+
+![Trello Board at 2 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_02.03.2022a.png)
+
+More development task cards added. Shifted some dates
+
+![Trello Board at 2 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_02.03.2022b.png)
+
 
 <br>
 
