@@ -158,6 +158,19 @@ More development task cards added. Shifted some dates
 ![Trello Board at 2 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_02.03.2022b.png)
 
 
+### 3 March 2022
+
+![Trello Board at 3 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_03.03.2022a.png)
+
+![Trello Board at 3 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_03.03.2022b.png)
+
+### 4 March 2022
+
+Testing started for some components
+
+![Trello Board at 4 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_04.03.2022a.png)
+
+
 <br>
 
 ---
