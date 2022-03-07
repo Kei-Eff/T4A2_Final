@@ -58,12 +58,12 @@ Updated 24.02.2022:
 * CSS
 * Javascript
 * Python 3
-* ~~Flask or Django web framework~~ _Removed 24.02.2022_
+* Flask
 * Github
 * AWS Identity and Access Manager
 * AWS Amplify
-* Amazon API Gateway
-* ~~AWS EC2~~ _Removed 25.02.2022_
+* ~~Amazon API Gateway~~ _Removed 07.03.2022_
+* AWS EC2
 * AWS Lambda
 * Amazon DynamoDB
 * AWS Parameter Store
@@ -142,21 +142,19 @@ Priority labels as follow:
 
 ### 1 March 2022
 
-Tackling page layout
+Tackling page layout:
 
 ![Trello Board at 1 March 2022 - Coding start](./docs/img/trello/mar_2022/Trello_01.03.2022a.png)
 
-
 ### 2 March 2022
 
-Added highline development tasks
+Added highline development tasks:
 
 ![Trello Board at 2 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_02.03.2022a.png)
 
-More development task cards added. Shifted some dates
+More development task cards added. Shifted some dates:
 
 ![Trello Board at 2 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_02.03.2022b.png)
-
 
 ### 3 March 2022
 
@@ -166,9 +164,38 @@ More development task cards added. Shifted some dates
 
 ### 4 March 2022
 
-Testing started for some components
+Testing started for some components:
 
 ![Trello Board at 4 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_04.03.2022a.png)
+
+### 5 March 2022
+
+Started coding Javascript to enable `POST` requests from HTML:
+
+![Trello Board at 5 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_05.03.2022a.png)
+
+### 7 March 2022
+
+Updated tech stack and app direction; Trello tasks updated with dates, new list and labels (for "Postponed" tasks). No longer serverless due to time constraints. Moving back to `Flask` on _EC2_ deployment:
+
+![Trello Board at 7 March 2022 - Task updates](./docs/img/trello/mar_2022/Trello_07.03.2022a.png)
+
+
+---
+
+
+## Testing Progress
+
+### 4 March 2022
+
+API Gateway; and Lambda API endpoint testing:
+
+![Testing API Gateway 4 March 2022](./docs/img/API_Gateway_Testing_04.03.2022a.png)
+
+![Testing API Gateway 4 March 2022](./docs/img/API_Gateway_Testing_04.03.2022b.png)
+
+![Testing API Gateway 4 March 2022](./docs/img/Lambda_Testing_04.03.2022a.png)
+
 
 
 <br>
